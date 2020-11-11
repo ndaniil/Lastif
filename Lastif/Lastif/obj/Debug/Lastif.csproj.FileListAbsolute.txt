@@ -1,0 +1,15 @@
+C:\Users\MyName\source\repos\Lastif\Lastif\bin\Debug\Lastif.exe.config
+C:\Users\MyName\source\repos\Lastif\Lastif\bin\Debug\Lastif.exe
+C:\Users\MyName\source\repos\Lastif\Lastif\bin\Debug\Lastif.pdb
+C:\Users\MyName\source\repos\Lastif\Lastif\obj\Debug\Lastif.csprojAssemblyReference.cache
+C:\Users\MyName\source\repos\Lastif\Lastif\obj\Debug\MainWindow.g.cs
+C:\Users\MyName\source\repos\Lastif\Lastif\obj\Debug\App.g.cs
+C:\Users\MyName\source\repos\Lastif\Lastif\obj\Debug\Lastif_MarkupCompile.cache
+C:\Users\MyName\source\repos\Lastif\Lastif\obj\Debug\Lastif_MarkupCompile.lref
+C:\Users\MyName\source\repos\Lastif\Lastif\obj\Debug\MainWindow.baml
+C:\Users\MyName\source\repos\Lastif\Lastif\obj\Debug\Lastif.g.resources
+C:\Users\MyName\source\repos\Lastif\Lastif\obj\Debug\Lastif.Properties.Resources.resources
+C:\Users\MyName\source\repos\Lastif\Lastif\obj\Debug\Lastif.csproj.GenerateResource.cache
+C:\Users\MyName\source\repos\Lastif\Lastif\obj\Debug\Lastif.csproj.CoreCompileInputs.cache
+C:\Users\MyName\source\repos\Lastif\Lastif\obj\Debug\Lastif.exe
+C:\Users\MyName\source\repos\Lastif\Lastif\obj\Debug\Lastif.pdb
