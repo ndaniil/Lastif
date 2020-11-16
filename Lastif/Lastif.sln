@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lastif", "Lastif\Lastif.csproj", "{FD4670DA-CC77-4886-9A87-77330579BDAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD4670DA-CC77-4886-9A87-77330579BDAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD4670DA-CC77-4886-9A87-77330579BDAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD4670DA-CC77-4886-9A87-77330579BDAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD4670DA-CC77-4886-9A87-77330579BDAB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {53A048C5-FA42-400C-A1A2-19DA5243A26B}
+	EndGlobalSection
+EndGlobal
