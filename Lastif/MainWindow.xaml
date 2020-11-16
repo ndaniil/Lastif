@@ -22,7 +22,6 @@
             <TextBox x:Name="Y" Margin="10 10 10 10"/>
         </StackPanel>
         <Button Content="Вычислить" Margin="10 10 10 10" Grid.Row="2" Click="Button_Click"/>
-
-        <TextBlock x:Name="Result" Grid.Row="3" Margin="10 10 10 10"/>
+        <TextBlock x:Name="Result" Grid.Row="3" Margin="10 10 10 10" TextWrapping="Wrap" />
     </Grid>
 </Window>

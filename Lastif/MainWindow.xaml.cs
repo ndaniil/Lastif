@@ -31,7 +31,7 @@ namespace LastIf
             {
                 double x = double.Parse(X.Text);
                 double y = double.Parse(Y.Text);
-                double b;
+                double b=0;
                 if (x / y > 0)
                 {
                     b = Math.Log10(Math.Sinh(x)) + Math.Pow(Math.Sinh(x) * Math.Sinh(x) + y, 3);
